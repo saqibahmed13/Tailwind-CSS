@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .box{
+    @apply m-4 pt-4 bg-green-200 text-red-600 font-semibold border-4  border-black  sm:bg-gray-950 md:bg-white
+} */
+/* in the below code where ever we have written text-red-600 it will display as text-blue because of custom css(hame likhi so) */
+
+/* .text-red-600{
+    @apply text-blue-600;
+} */
